@@ -1,0 +1,9 @@
+{
+  "name": "filmwebsearchplugin",
+  "title": "Filmweb Search Plugin",
+  "id": "jid1-Al6znCisBuHBZg",
+  "description": "Dodaje funkcje wyszukiwania zaznaczonego tekstu po kliknieciu prawym przyciskiem myszy.",
+  "author": "pawelizycki@gmail.com",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
